@@ -1,0 +1,150 @@
+/* project 1 toggle button */
+/* .dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+    } */
+
+
+    /*  project 2 */
+/* .buttonone{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+} */
+
+.buttonone{
+    font-size: 25px;
+       background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+
+.call{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+
+.bannercontent{
+    font-size: 52px;
+    font-weight: 700;
+  
+}
+.bannercontent p ,ul{
+    font-size: 18px;
+}
+span{
+  color: #2699FB;
+}
+ul{
+    list-style-type: none;
+}
+
+.bannercontent ul li{
+    font-size: 18px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+}
+.bannercontent ul li i{
+color: #2699FB;
+}
+.bannercontentbtn{
+    font-size: 16px;
+    flex-direction: column;
+}
+
+.bannercontentbtn button{
+    width: 100%;
+}
+.bannercontentbtn button:first-child{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    font-size: 25px;
+    
+    
+    border-radius: 3px;
+    color: white;
+}
+
+.downloadbtn{
+    background: linear-gradient(to right,#cfffe7,#eefff9);
+    
+    font-size: 25px;
+
+    border-radius: 3px;
+    color: rgb(0, 4, 218);
+}
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerForm h3{
+    font-size: 23px;
+}
+
+input{
+    width: 300px;
+}
+
+.btnform{
+        background: linear-gradient(to right,#0ACEFE,#2699FB);
+        border-radius: 5px;
+        color: white;
+        width: 100%;
+        border: none;
+        height: 35px;
+
+
+}
+
+
+/* portion 3 */
+
+
+.color h2{
+    color: #0ACEFE;
+}
+
+
+/* highlights-section  */
+.highlights-section {
+    background-color: #f7faff;
+}
+.highlights-section h2{
+    color: #125188;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.highlights-section p{
+    font-size: 18px;
+}
+.highlightsItems h4{
+    font-size: 20x;
+}
+
+
+#navbarNav ul li a{
+   font-family:'Times New Roman', Times, serif;
+    margin-right: 15px;
+    font-size: 30px;
+    color:#0ACEFE
+}
+
+.imagesone{
+    background-size: cover;
+}
+
+.navbarcolor{
+     background: linear-gradient(to right,#c7e9f1,#2699FB);
+}
+
+.faqcolor{
+    background-color: #b6c4c5;
+}
+
+
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+background-color: #f2f4f7;
+color: black;
+border-bottom: 2px solid blue;
+border-radius: 0px;
+}

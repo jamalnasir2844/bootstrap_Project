@@ -1,0 +1,39 @@
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1170px;
+    }
+}
+
+@media only screen and (min-width:200px) and (max-width:575px){
+    .btn-outer{
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        background-color: white;
+        padding: 5px 0px;
+    }
+}
+.highlights-section h2{
+font-size: 26px;
+
+}
+
+.bannerForm{
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/*    <h3>Name</h3>
+                    <input placeholder="Enter your name">
+                    <h3>Email</h3>
+                    <input placeholder="Enter your email">
+                    <h3>Ph Number</h3>
+                    <input placeholder="Enter your ph number"> */
